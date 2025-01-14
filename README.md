@@ -1,5 +1,7 @@
 # 👨‍💻 Álvaro Rodríguez Ilárraz
 
+<img src="https://github.com/alvcid/alvcid/blob/main/banner.png" alt="Álvaro Rodríguez Ilárraz - AI & Quantitative Trading Specialist" width="100%">
+
 🚀 **Engineer specialized in quantitative trading, machine learning, and artificial intelligence.**  
 💡 Passionate about advanced systems such as Deep Reinforcement Learning, Brain-Computer Interfaces, and automated trading algorithms.  
 🌟 Currently developing projects in algorithmic trading and deep learning.
