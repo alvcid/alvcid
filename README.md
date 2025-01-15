@@ -16,7 +16,7 @@
 - 🌐 **WordPress Websites & 360º Marketing Campaigns:** 
   I have successfully designed and developed several websites on WordPress while managing comprehensive 360º marketing strategies, including:
   
-  <img src="path/to/your/image1.png" alt="Website 1" width="45%"> <img src="path/to/your/image2.png" alt="Website 2" width="45%">
+  <img src="path/to/your/image1.jpg" alt="Website 1" width="45%"> <img src="path/to/your/image2.jpg" alt="Website 2" width="45%">
 
 ---
 
