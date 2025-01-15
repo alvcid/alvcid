@@ -20,6 +20,33 @@
 
 ---
 
+### 🌟 Trading Experience: Managing Over $100,000 in Funds
+I have successfully managed accounts exceeding **$100,000**, demonstrating a proven track record in professional trading. My experience includes:
+
+- 📈 **Challenges Successfully Completed**: Achieved a **10% profit target** in stringent conditions, with a maximum allowable drawdown of 5-10%.
+- 💰 **Payouts Received**: Successfully withdrawn profits, proving my ability to perform under high-stakes scenarios.
+
+#### Key Highlights:
+1. **Phase 2 Challenge Completion (50K)**  
+   Successfully passed trading challenges requiring disciplined strategies and effective risk management.
+
+   <img src="https://github.com/alvcid/alvcid/blob/main/FTMO%2050K%20fase%202%20Completa.png" alt="TFF Phase 2 Complete 50K" width="48%">
+   <img src="https://github.com/alvcid/alvcid/blob/main/TFF%20Fase%202%20completa%2050K.png" alt="FTMO Phase 2 Complete 50K" width="48%">
+
+2. **Profit Withdrawal Proof**  
+   Evidence of payouts for profits generated in professional trading accounts.
+
+   <img src="https://github.com/alvcid/alvcid/blob/main/TFF%20nuevo%20cheque.png" alt="TFF Withdrawal Proof" width="48%">
+   <img src="https://github.com/alvcid/alvcid/blob/main/pago%20FTMO%201.jpg" alt="FTMO Payment Proof" width="48%">
+
+3. **Other Achievements**  
+   Additional accounts and phases completed with remarkable performance.
+
+   <img src="https://github.com/alvcid/alvcid/blob/main/Fase%202%2010K%20Completa.jpg" alt="Phase 2 Complete 10K" width="48%">
+   <img src="https://github.com/alvcid/alvcid/blob/main/Primer%20Sueldo.png" alt="First Salary from Trading" width="48%">
+
+---
+
 ### 🛠️ Technologies & Tools
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" style="height:50px;">
