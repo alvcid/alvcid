@@ -17,16 +17,19 @@
 ---
 
 ### 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=flat)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
-![SAP](https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white&style=flat)
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" style="height:50px;">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat" style="height:50px;">
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat" style="height:50px;">
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" style="height:50px;">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat" style="height:50px;">
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" style="height:50px;">
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat" style="height:50px;">
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=flat" style="height:50px;">
+  <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat" style="height:50px;">
+  <img src="https://img.shields.io/badge/-SAP-0FAAFF?logo=sap&logoColor=white&style=flat" style="height:50px;">
+</div>
+
 
 ---
 
