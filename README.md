@@ -13,6 +13,10 @@
 - 📈 **[Cancer Classification - Deep Learning](https://github.com/alvcid/DL_Cancer_with_Perceptron):** Classificating cancer areas with cutting-edge deep learning models for more accurate predictions.
 - 🏠 **[House Price Prediction](https://github.com/alvcid/ML_House_Prices):** Machine learning models to predict house prices using real-world Kaggle datasets.
 - 📊 **[Machine Learning for Trading](https://github.com/alvcid/ML_TS_Trading):** Optimizing indicators and labelling to convert a time series problem into a classification tabular problem with Python-based tools.
+- 🌐 **WordPress Websites & 360º Marketing Campaigns:** 
+  I have successfully designed and developed several websites on WordPress while managing comprehensive 360º marketing strategies, including:
+  
+  <img src="path/to/your/image1.png" alt="Website 1" width="45%"> <img src="path/to/your/image2.png" alt="Website 2" width="45%">
 
 ---
 
