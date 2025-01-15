@@ -37,13 +37,12 @@ I have successfully managed accounts exceeding **$100,000**, demonstrating a pro
    Evidence of payouts for profits generated in professional trading accounts.
 
    <img src="https://github.com/alvcid/alvcid/blob/main/TFF%20nuevo%20cheque.png" alt="TFF Withdrawal Proof" width="48%">
-   <img src="https://github.com/alvcid/alvcid/blob/main/pago%20FTMO%201.jpg" alt="FTMO Payment Proof" width="48%">
+   <img src="https://github.com/alvcid/alvcid/blob/main/Primer%20Sueldo.png" alt="First Salary from Trading" width="48%">
 
 3. **Other Achievements**  
    Additional accounts and phases completed with remarkable performance.
 
    <img src="https://github.com/alvcid/alvcid/blob/main/Fase%202%2010K%20Completa.jpg" alt="Phase 2 Complete 10K" width="48%">
-   <img src="https://github.com/alvcid/alvcid/blob/main/Primer%20Sueldo.png" alt="First Salary from Trading" width="48%">
 
 ---
 
