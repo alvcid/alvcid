@@ -47,6 +47,21 @@ I have successfully managed accounts exceeding **$100,000**, demonstrating a pro
 
 ---
 
+### 🌟 Professional Experience: SAP Consultant
+I had the privilege of working as an **SAP consultant** for two of the most prestigious multinational companies in Spain:
+
+- **Indra**: Contributed to large-scale enterprise projects, leveraging SAP solutions to optimize business processes.
+- **NTT Data**: Delivered high-impact consulting services, specializing in SAP implementation and customization for diverse industries.
+
+#### Key Contributions:
+- Implemented tailored SAP solutions to meet client-specific needs.
+- Enhanced operational efficiency by integrating SAP modules across different departments.
+- Collaborated with multidisciplinary teams in fast-paced, results-driven environments.
+
+This experience showcases my ability to adapt to complex technical environments while delivering measurable business value.
+
+---
+
 ### 🛠️ Technologies & Tools
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" style="height:50px;">
