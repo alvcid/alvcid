@@ -11,7 +11,6 @@
 ### 🌟 Featured Projects
 - 🧠 **[Deep Reinforcement Learning - Trading](https://github.com/alvcid/DeepReinforcementLearning_Pairs_Trading):** Automated pairs trading strategy using DQN to maximize returns while minimizing risk.
 - 📈 **[Cancer Classification - Deep Learning](https://github.com/alvcid/DL_Cancer_with_Perceptron):** Classificating cancer areas with cutting-edge deep learning models for more accurate predictions.
-- 🏠 **[House Price Prediction](https://github.com/alvcid/ML_House_Prices):** Machine learning models to predict house prices using real-world Kaggle datasets.
 - 📊 **[Machine Learning for Trading](https://github.com/alvcid/ML_TS_Trading):** Optimizing indicators and labelling to convert a time series problem into a classification tabular problem with Python-based tools.
 - 🌐 **WordPress Websites & 360º Marketing Campaigns:** 
   I have successfully designed and developed several websites on WordPress while managing comprehensive 360º marketing strategies, including:
@@ -82,7 +81,7 @@ This experience showcases my ability to adapt to complex technical environments 
 While most of my work focuses on advanced engineering and AI solutions, I am also an author dedicated to helping others grow personally and financially.
 
 - **[You Are Your Own Master](https://www.amazon.es/Eres-Propio-Maestro-Verdadero-Potencial/dp/1659378265):** A self-development guide that empowers readers to achieve their goals through discipline and self-awareness.
-- **[Investing is a Habit](https://www.amazon.es/Invertir-H%C3%A1bito-Desarrolla-Capacidad-Financiera-ebook/dp/B08NZ1H3WP):** A practical approach to mastering financial habits and building a solid investment strategy.
+- **[Investing is an Habit](https://www.amazon.es/Invertir-H%C3%A1bito-Desarrolla-Capacidad-Financiera-ebook/dp/B08NZ1H3WP):** A practical approach to mastering financial habits and building a solid investment strategy.
 
 These books reflect my passion for knowledge-sharing and empowering individuals beyond the technical domain.
 
