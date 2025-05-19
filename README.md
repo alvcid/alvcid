@@ -8,6 +8,34 @@
 
 ---
 
+### Portfolio Trading Backtest (2015-2025)
+
+**Análisis de Resultados de Backtest**  
+🔗 [Descargar Slides PDF](https://page1.genspark.site/slides_pdf/5306d2cb-2f52-4b1c-9332-4b7fd5e7e8ad/portfolio_trading_backtest_20250519130620.pdf)
+
+- **Total Return:** +540.82%  
+- **Annual Return:** +277.77%  
+- **Sharpe Ratio (Annualizado):** 1.66  
+- **Win Rate:** 57.74% (4008/6942 trades)  
+- **Max Drawdown:** -35.65%  
+- **Time in Market:** 9.9 años (96.5% del tiempo)  
+
+**Top Activos por Beneficio**  
+| Activo | Beneficio ($) | Trades | Win Rate | Sharpe Ratio |  
+|--------|--------------:|-------:|----------:|-------------:|  
+| NVDA   |      28,871.13 |    301 |    61.46% |         2.42 |  
+| TSLA   |      22,885.35 |    238 |    60.50% |         1.91 |  
+| LRCX   |      19,652.06 |    429 |    58.51% |         1.72 |  
+| TTD    |      14,334.40 |    227 |    57.71% |         1.62 |  
+| PODD   |      14,108.06 |    215 |    63.26% |         2.01 |  
+| MDB    |      13,257.55 |    239 |    54.39% |         1.43 |  
+
+**Insights**  
+- Baja correlación mensual entre NVDA, TSLA y LRCX, favoreciendo diversificación.  
+- Los 6 top activos generan el 41.3% del beneficio total del sistema.  
+
+---
+
 ### 🌟 Featured Projects
 - 🧠 **[Deep Reinforcement Learning - Trading](https://github.com/alvcid/DeepReinforcementLearning_Pairs_Trading):** Automated pairs trading strategy using DQN to maximize returns while minimizing risk.
 - 📈 **[Cancer Classification - Deep Learning](https://github.com/alvcid/DL_Cancer_with_Perceptron):** Classificating cancer areas with cutting-edge deep learning models for more accurate predictions.
