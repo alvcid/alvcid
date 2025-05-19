@@ -11,7 +11,7 @@
 ### Portfolio Trading Backtest (2015-2025)
 
 **Análisis de Resultados de Backtest**  
-🔗 [Descargar Slides PDF](https://page1.genspark.site/slides_pdf/5306d2cb-2f52-4b1c-9332-4b7fd5e7e8ad/portfolio_trading_backtest_20250519130620.pdf)
+🔗 [Descargar Slides PDF](https://github.com/alvcid/alvcid/blob/main/Presentacion%20del%20portfolio.pdf)
 
 - **Total Return:** +540.82%  
 - **Annual Return:** +277.77%  
