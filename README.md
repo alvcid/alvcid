@@ -8,8 +8,6 @@
 
 ---
 
-### Portfolio Trading Backtest (2015-2025)
-
 # Portfolio de Trading: Análisis de Resultados 2015-2025
 
 ![Trading Strategy](https://img.shields.io/badge/Strategy-Quantitative-blue)
