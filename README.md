@@ -10,29 +10,99 @@
 
 ### Portfolio Trading Backtest (2015-2025)
 
-**Análisis de Resultados de Backtest**  
-🔗 [Descargar Slides PDF](https://github.com/alvcid/alvcid/blob/main/Presentacion%20del%20portfolio.pdf)
+# Portfolio de Trading: Análisis de Resultados 2015-2025
 
-- **Total Return:** +540.82%  
-- **Annual Return:** +277.77%  
-- **Sharpe Ratio (Annualizado):** 1.66  
-- **Win Rate:** 57.74% (4008/6942 trades)  
-- **Max Drawdown:** -35.65%  
-- **Time in Market:** 9.9 años (96.5% del tiempo)  
+![Trading Strategy](https://img.shields.io/badge/Strategy-Quantitative-blue)
+![Backtest Period](https://img.shields.io/badge/Period-2015--2025-green)
+![Market](https://img.shields.io/badge/Market-Stocks-orange)
 
-**Top Activos por Beneficio**  
-| Activo | Beneficio ($) | Trades | Win Rate | Sharpe Ratio |  
-|--------|--------------:|-------:|----------:|-------------:|  
-| NVDA   |      28,871.13 |    301 |    61.46% |         2.42 |  
-| TSLA   |      22,885.35 |    238 |    60.50% |         1.91 |  
-| LRCX   |      19,652.06 |    429 |    58.51% |         1.72 |  
-| TTD    |      14,334.40 |    227 |    57.71% |         1.62 |  
-| PODD   |      14,108.06 |    215 |    63.26% |         2.01 |  
-| MDB    |      13,257.55 |    239 |    54.39% |         1.43 |  
+## 📊 Resultados Principales
 
-**Insights**  
-- Baja correlación mensual entre NVDA, TSLA y LRCX, favoreciendo diversificación.  
-- Los 6 top activos generan el 41.3% del beneficio total del sistema.  
+Resultados de backtest obtenidos mediante estrategias algorítmicas de trading aplicadas a múltiples activos durante el período 2015-2025.
+
+### Métricas de Rendimiento
+
+| Métrica | Valor |
+|---------|-------|
+| **Retorno Total** | +540.82% |
+| **Retorno Anual** | +277.77% |
+| **Retorno sobre Capital Inicial** | +2738.56% |
+| **Factor de Beneficio** | 1.59 |
+| **Operaciones Rentables** | 57.74% (4008 de 6942 trades) |
+| **Ratio Ganador/Perdedor** | 1.16 |
+| **Ratio Sharpe Anualizado** | 1.66 |
+| **Upside Potential Ratio** | 62.35 |
+| **Sortino Ratio** | 0.53 |
+| **Beneficio Neto** | $273,856.22 |
+
+### Métricas de Riesgo
+
+| Métrica | Valor |
+|---------|-------|
+| **Máximo Drawdown** | -35.65% |
+| **Máximo Close-to-Close Drawdown** | -37.98% |
+| **Tiempo en Mercado** | 96.5% |
+| **Operación más exitosa** | $184.15 |
+| **Operación menos exitosa** | -$159.24 |
+
+## 📈 Análisis Anual
+
+Evolución del rendimiento a lo largo del período de backtest:
+
+| Año | Beneficio Neto | % Beneficio | Factor | # Operaciones | % Rentables | Beneficio Medio |
+|-----|---------------|------------|---------|--------------|------------|----------------|
+| 2015 | $5,921.17 | 59.21% | 1.2 | 395 | 51.9% | $14.99 |
+| 2016 | $21,172.15 | 132.98% | 1.49 | 754 | 55.17% | $28.08 |
+| 2017 | $29,350.41 | 79.13% | 1.8 | 834 | 59.35% | $35.19 |
+| 2018 | $27,307.91 | 41.1% | 1.5 | 799 | 56.95% | $34.18 |
+| 2019 | $35,112.69 | 37.45% | 1.71 | 891 | 61.73% | $39.41 |
+| 2020 | $44,982.94 | 34.91% | 1.68 | 711 | 59.21% | $63.27 |
+| 2021 | $33,142.95 | 19.06% | 1.92 | 644 | 61.18% | $51.46 |
+| 2022 | $20,461.78 | 9.89% | 1.42 | 519 | 52.79% | $39.43 |
+| 2023 | $32,696.42 | 14.38% | 1.79 | 674 | 58.01% | $48.51 |
+| 2024 | $26,778.20 | 10.29% | 1.73 | 604 | 57.62% | $44.33 |
+| 2025 | ($3,228.44) | (1.13%) | (0.85) | 148 | 50% | ($21.81) |
+
+## 🔍 Análisis por Activos
+
+Los mejores activos según rendimiento acumulado:
+
+| Símbolo | Beneficio Neto | # Operaciones | Ratio Sharpe | % Rentables |
+|---------|---------------|--------------|-------------|------------|
+| LRCX | $19,652.51 | 429 | 1.2 | 58.51% |
+| NVDA | $28,871.13 | 301 | 1.73 | 61.46% |
+| TSLA | $22,885.35 | 238 | 0.94 | 60.5% |
+| TTD | $14,334.40 | 257 | 0.8 | 57.71% |
+| PODD | $14,108.06 | 215 | 0.68 | 63.26% |
+| MDB | $13,257.55 | 239 | 0.83 | 54.39% |
+| NOW | $13,303.17 | 292 | 0.83 | 57.53% |
+| ON | $11,274.26 | 321 | 0.76 | 57.63% |
+| NRG | $11,544.97 | 236 | 1.01 | 60.59% |
+
+## ⏱️ Análisis Temporal
+
+| Métrica | Valor |
+|---------|-------|
+| **Periodo Total** | 9 Años, 10 Meses, 23 Días |
+| **% Tiempo en Mercado** | 96.5% |
+| **Periodo más largo sin beneficios** | 6 Días |
+
+## 🔄 Correlaciones
+
+El sistema aprovecha las distintas correlaciones entre activos para diversificar el riesgo:
+- Correlaciones positivas fuertes (>0.5) entre: NVDA-TSLA, SNPS-NOW, NRG-ETSY
+- Correlaciones negativas significativas (<-0.2) entre diversos pares, permitiendo diversificación efectiva
+
+## 📋 Información Adicional
+
+- **Estrategia**: Basada en análisis cuantitativo y momentum
+- **Tipos de operaciones**: 100% posiciones largas
+- **Timeframe principal**: Diario y semanal
+- **Comisiones incluidas**: $10,393.00 total
+
+---
+
+*Los resultados pasados no garantizan rendimientos futuros. Backtest realizado con datos históricos.*
 
 ---
 
