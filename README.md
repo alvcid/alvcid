@@ -1,7 +1,7 @@
 # Álvaro Rodríguez Ilárraz  
 ### Quant Trader · AI Researcher · Applied ML Engineer
 
-![banner](https://github.com/alvcid/alvcid/blob/main/banner2.png)
+![banner](https://github.com/alvcid/alvcid/blob/main/banner3.png)
 
 ---
 
