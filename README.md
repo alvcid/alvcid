@@ -3,11 +3,6 @@
 
 ![banner](https://github.com/alvcid/alvcid/blob/main/banner2.png)
 
-# Álvaro Rodríguez Ilárraz  
-### Quant Trader · AI Researcher · Applied ML Engineer  
-
-[GitHub profile](https://github.com/alvcid)  
-
 ---
 
 ## 🚀 About me
