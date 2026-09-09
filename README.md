@@ -2,6 +2,8 @@
 
 **Python Software Engineer · R&D · Applied AI & Quantitative Systems**
 
+[![ARI — Python Engineering, R&D, Applied AI and Quantitative Systems](assets/ari-python-banner.png)](https://alvaro-portfolio-mu.vercel.app/)
+
 I build software to investigate markets, work with data, and turn ideas into tools people can use. My work connects Python engineering, reproducible research, and applied machine learning: from data pipelines and APIs to evaluation frameworks, reports, and dashboards.
 
 My background spans software development, quantitative research, and enterprise systems. I enjoy the work between an interesting idea and a dependable implementation: defining inputs, checking assumptions, building the tooling, and making the results understandable.
